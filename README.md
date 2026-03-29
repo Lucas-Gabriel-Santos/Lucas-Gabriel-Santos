@@ -39,8 +39,7 @@
     src="https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" 
     width=280 
     align="left"
-    style="margin-right: 100px;"
-    style="margin-bottom: -10px;"
+    style="margin-right: 30px; margin-bottom: 20px;"
     >
 
 <!-- Who Am I? -->
