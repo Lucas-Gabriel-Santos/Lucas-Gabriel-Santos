@@ -32,8 +32,6 @@
     </a>
 </p>
 
----
-
 ## ✨ About me
 My name is Lucas Gabriel dos Santos, I am an undergraduate student in Information Technology at the Federal University of Rio Grande do Norte (UFRN). I am a technician in Internet Informatics from the Federal Institute of Education, Science and Technology of Rio Grande do Norte - IFRN (2023).
 
