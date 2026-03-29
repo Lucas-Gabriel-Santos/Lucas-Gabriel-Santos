@@ -42,7 +42,7 @@
     </td>
     <td style="border: none; vertical-align: top;">
       <div align="center">
-        **✨ Who Am I?**
+        <h3>✨ Who Am I? </h3>
       </div>
       <br>
       <div align="justify">
@@ -67,7 +67,7 @@
 <!-- GIF -->
 <!--<img align="right" alt="capa-Sobre" width="150" src="https://media.tenor.com/D5NwrpJKNJYAAAAi/pppp.gif"></br>-->
 
-<!-- Currently Learning -->
+<!-- Currently Learning 
 <br>
 <h3 style="margin-left: 280px;">
  💻 Currently Learning
@@ -75,7 +75,7 @@
 <br>
  🟥 Java com Spring Boot </br>
  🟦 Banco de dados </br>
-
+-->
 
 <!-- My Stacks -->
 ## 🛠️ My Stacks
