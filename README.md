@@ -3,6 +3,7 @@
     title="Osha"
     width="1000"  
     heigt="1000"
+    object-fit:cover
     src="https://i.pinimg.com/1200x/9f/8c/8e/9f8c8e516bfa9baaf6ffeb2d399b6765.jpg" 
 />
 
