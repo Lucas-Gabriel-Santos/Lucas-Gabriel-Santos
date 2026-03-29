@@ -1,10 +1,10 @@
 # 👨🏽‍💻 LucasSantos
 
 <img 
-    align="center" 
     alt="Oshawott" 
     title="Osha"
-    width="50%"  
+    width="300"  
+    heigt="300"
     src="https://i.pinimg.com/originals/7b/eb/b2/7bebb22a70f1128bb38fb7789a3eee5f.gif" 
 />
 
