@@ -62,8 +62,6 @@
   </tr>
 </table>
 
-<br>
-
 <!-- GIF -->
 <!--<img align="right" alt="capa-Sobre" width="150" src="https://media.tenor.com/D5NwrpJKNJYAAAAi/pppp.gif"></br>-->
 
