@@ -42,23 +42,5 @@ My name is Lucas Gabriel dos Santos, I am an undergraduate student in Informatio
 - Banco de dados
 
 ## 🛠️ My Stacks
-<div align="center">
-    <table>
-        <tr>
-        <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/></a></td>
-        <td align="center"><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/></a></td>
-        <td align="center"><a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/></a></td>
-        <td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/></a></td>
-        <td align="center"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50"/></a></td>
-        <td align="center"><a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/></a></td>
-        </tr>
-        <tr>
-        <td align="center"><a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/></a></td>
-        <td align="center"><a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50"/></a></td>
-        <td align="center"><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50"/></a></td>
-        <td align="center"><a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50"/></a></td>
-        <td align="center"><a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a></td>
-    </table>
-</div>
 
 ## 📊 Statistics
