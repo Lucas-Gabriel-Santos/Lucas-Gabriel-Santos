@@ -41,6 +41,6 @@ My name is Lucas Gabriel dos Santos, I am an undergraduate student in Informatio
 - Java com Spring Boot
 - Banco de dados
 
-## 🛠️ My Stacks
+## 🛠️ My Skills
 
 ## 📊 Statistics
