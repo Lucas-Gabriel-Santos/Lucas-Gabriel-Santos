@@ -35,12 +35,12 @@
 </p>
 
 <!--  GIF HOMEM ARANHA -->
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; padding-right: 40px; vertical-align: top;">
+<div align="center">
+  <div style="display: flex; align-items: flex-start; justify-content: center; gap: 40px; text-align: left; max-width: 800px;">
+    <div style="flex: 1; max-width: 280px;">
       <img src="https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="280">
-    </td>
-    <td style="border: none; vertical-align: top;">
+    </div>
+    <div style="flex: 2;">
       <div align="center">
         <h3>✨ Who Am I? </h3>
       </div>
@@ -58,9 +58,9 @@
           <img src="https://skillicons.dev/icons?i=linkedin" />
         </a> 
       </div>
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+</div>
 
 <br>
 
