@@ -35,34 +35,32 @@
 </p>
 
 <!--  GIF HOMEM ARANHA -->
-<img 
-    src="https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" 
-    width=280 
-    align="left"
-    style="margin-right: 80px; margin-bottom: 20px;"
-    >
-
-<!-- Who Am I? -->
-<div align="center">
-
-**✨ Who Am I?**
-
-</div>
-
-<div align="justify">
-My name is Lucas Gabriel dos Santos, I am an undergraduate student in Information Technology at the Federal University of Rio Grande do Norte (UFRN). I am a technician in Internet Informatics from the Federal Institute of Education, Science and Technology of Rio Grande do Norte - IFRN (2023).
-<p>
-&nbsp; <!--CRIA PARAGRAFO INVISIVEL-->
-</p>
-
- <div align="center"> 
-  <a href="https://mail.google.com/mail/?view=cm&to=santoslucasgabriel069@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-gabriel-dos-santos-anizio-9b4a972b5/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> 
-</div>
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding-right: 40px; vertical-align: top;">
+      <img src="https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="280">
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <div align="center">
+        **✨ Who Am I?**
+      </div>
+      <br>
+      <div align="justify">
+        My name is Lucas Gabriel dos Santos, I am an undergraduate student in Information Technology at the Federal University of Rio Grande do Norte (UFRN). I am a technician in Internet Informatics from the Federal Institute of Education, Science and Technology of Rio Grande do Norte - IFRN (2023).
+      </div>
+      <br>
+      <div align="center"> 
+        <a href="https://mail.google.com/mail/?view=cm&to=santoslucasgabriel069@gmail.com" target="_blank">
+          <img src="https://skillicons.dev/icons?i=gmail" />
+        </a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/lucas-gabriel-dos-santos-anizio-9b4a972b5/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a> 
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
